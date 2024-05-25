@@ -664,6 +664,7 @@ a:focus {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  text-align: center;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
@@ -672,6 +673,7 @@ a:focus {
 .team_section .team_container .box .social_box a {
   color: #ffffff;
   font-size: 22px;
+  margin: auto;
 }
 
 .team_section .team_container .box .social_box a:hover {
