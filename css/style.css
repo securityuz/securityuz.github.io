@@ -4,10 +4,10 @@ body {
   color: #0c0c0c;
   background-color: #ffffff;
   overflow-x: hidden;
-  /*-webkit-user-select: none;  Chrome, Safari, Opera 
-  -moz-user-select: none;     Firefox 
-  -ms-user-select: none;     Internet Explorer/Edge 
-  user-select: none;*/ 
+  -webkit-user-select: none; /* Chrome, Safari, Opera */
+  -moz-user-select: none;    /* Firefox */
+  -ms-user-select: none;     /* Internet Explorer/Edge */
+  user-select: none; 
 }
 
 .layout_padding {
