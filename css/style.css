@@ -640,6 +640,7 @@ a:focus {
 }
 .team_container .img {
   pointer-events: none;
+  border-radius: 1px solid red;
 }
 
 .team_section .team_container .box .img-box {
