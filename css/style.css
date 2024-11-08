@@ -636,6 +636,10 @@ a:focus {
   margin-top: 45px;
   background: -webkit-gradient(linear, left top, left bottom, from(#002759), to(#002b64));
   background: linear-gradient(to bottom, #002759, #002b64);
+  -webkit-user-select: none; /* Chrome, Safari, Opera */
+  -moz-user-select: none;    /* Firefox */
+  -ms-user-select: none;     /* Internet Explorer/Edge */
+  user-select: none; 
   
 }
 
