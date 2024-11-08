@@ -639,10 +639,7 @@ a:focus {
 }
 
 .team_container {
-  -webkit-user-select: none; /* Chrome, Safari, Opera */
-  -moz-user-select: none;    /* Firefox */
-  -ms-user-select: none;     /* Internet Explorer/Edge */
-  user-select: none; 
+    pointer-events: none;
 }
 
 .team_section .team_container .box .img-box {
